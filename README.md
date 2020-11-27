@@ -52,6 +52,12 @@ for Engineers </a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(25).pdf" style="text-decoration:none;">The Fundamentals of Stellar Astrophysics</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(26).pdf" style="text-decoration:none;">Special Relativity</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(27).pdf" style="text-decoration:none;">Light and Matter </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(28).pdf" style="text-decoration:none;">The Adventure of Physics
+Volume III: Light, Charges and Brains</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(29).pdf" style="text-decoration:none;">The People's Physics Book</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(30).pdf" style="text-decoration:none;">Partial Solutions Manual: Introduction to Statics and Dynamics</a></li>
  
  
  </ul>
