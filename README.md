@@ -57,7 +57,6 @@ for Engineers </a></li>
  </ul>
  </br>
  <h2>Stanford Lecture Notes</h2>
-<p>&nbsp;</p>
 <h2>A - Introduction and MR Review</h2>
 <ul>
 <li>
