@@ -22,6 +22,8 @@ and Physical Science Students</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(8).pdf" style="text-decoration:none;"> University Physics: Volume 2 </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(9).pdf" style="text-decoration:none;">University Physics: Volume 3</a></li>
   
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/lec1.rar" style="text-decoration:none;"> Fundamentals of Physics I (Lectures)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/lec2.rar" style="text-decoration:none;">Fundamentals of Physics II (Lectures)</a></li>
+  
  
  </ul>
