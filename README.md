@@ -43,6 +43,13 @@ to Groups, Invariants and Particles </a></li>
 Theory and Application to Aerosols, Clouds, and Soils </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(20).pdf" style="text-decoration:none;">Radiative Transfer in the Earth System</a></li>
   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(21).pdf" style="text-decoration:none;"> Conceptual physics </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(22).pdf" style="text-decoration:none;">General Relativity</a></li>
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(23).pdf" style="text-decoration:none;">Quantum Mechanics
+for Engineers </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(24).pdf" style="text-decoration:none;">Introduction to Statics and Dynamics</a></li>
+  
  
  
  
