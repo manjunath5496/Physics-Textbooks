@@ -24,6 +24,27 @@ and Physical Science Students</a></li>
   
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/lec1.rar" style="text-decoration:none;"> Fundamentals of Physics I (Lectures)</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/lec2.rar" style="text-decoration:none;">Fundamentals of Physics II (Lectures)</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(10).pdf" style="text-decoration:none;">Making, probing and understanding ultracold Fermi gases</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(11).pdf" style="text-decoration:none;">Introduction to String Field Theory</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(12).pdf" style="text-decoration:none;">
+SUPERSPACE or One thousand and one lessons in supersymmetry </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(13).pdf" style="text-decoration:none;">Natural Aerosols in the Climate System </a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(14).pdf" style="text-decoration:none;">The Age of Einstein</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(15).pdf" style="text-decoration:none;">Classical Electromagnetism</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(16).pdf" style="text-decoration:none;">Essential Physics: Part I</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(17).pdf" style="text-decoration:none;"> Introduction
+to Groups, Invariants and Particles </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(18).pdf" style="text-decoration:none;">The Physics of Waves</a></li>
   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(19).pdf" style="text-decoration:none;">Particle Size Distributions:
+Theory and Application to Aerosols, Clouds, and Soils </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(20).pdf" style="text-decoration:none;">Radiative Transfer in the Earth System</a></li>
+  
+ 
+ 
+ 
  
  </ul>
