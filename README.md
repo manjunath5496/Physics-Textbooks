@@ -86,7 +86,7 @@ for AP Courses</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(49).pdf" style="text-decoration:none;">Lab Manual for Physics 221</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(50).pdf" style="text-decoration:none;">Lab Manual for Physics 222</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(51).pdf" style="text-decoration:none;">Lab Manual for Physics 223</a></li>
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(52).pdf" style="text-decoration:none;">Discover Physics </a></li>
 
  </ul>
  </br>
