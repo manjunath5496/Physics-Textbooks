@@ -61,7 +61,8 @@ Volume III: Light, Charges and Brains</a></li>
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(31).pdf" style="text-decoration:none;">The Adventure of Physics: Volume VI: The StrandModel – A Speculation on Unification (PART I)</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(32).pdf" style="text-decoration:none;">The Adventure of Physics: Volume VI: The StrandModel – A Speculation on Unification (PART II)</a></li>
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(34).pdf" style="text-decoration:none;">College Physics
+for AP Courses</a></li>
  </ul>
  </br>
  <h2>Stanford Lecture Notes</h2>
