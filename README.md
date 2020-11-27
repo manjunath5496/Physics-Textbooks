@@ -74,8 +74,11 @@ for AP Courses</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(41).pdf" style="text-decoration:none;">Mechanics and Relativity</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(42).pdf" style="text-decoration:none;">Problems in Introductory Physics</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(43).pdf" style="text-decoration:none;">Fundamentals of Calculus</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(44).pdf" style="text-decoration:none;">Modern physics: With waves, thermodynamics, and optics</a></li>
 
-
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(45).pdf" style="text-decoration:none;">Relativity for Poets</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(46).pdf" style="text-decoration:none;">Fields and Circuits</a></li>
 
 
 
