@@ -58,7 +58,9 @@ Volume III: Light, Charges and Brains</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(29).pdf" style="text-decoration:none;">The People's Physics Book</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(30).pdf" style="text-decoration:none;">Partial Solutions Manual: Introduction to Statics and Dynamics</a></li>
- 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(31).pdf" style="text-decoration:none;">The Adventure of Physics: Volume VI: The StrandModel – A Speculation on Unification (PART I)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(32).pdf" style="text-decoration:none;">The Adventure of Physics: Volume VI: The StrandModel – A Speculation on Unification (PART II)</a></li>
  
  </ul>
  </br>
