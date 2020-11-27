@@ -161,9 +161,42 @@ for AP Courses</a></li>
 </li>
 </ul>
  </br>
+ <h2>Lecture Slides </h2>
+
+<ul>
+<li><a href="the-basics-of-physics.pptx" data-smd-id="s39">1: The Basics of Physics</a></li>
+<li><a href="kinematics.pptx" data-smd-id="s40">2: Kinematics</a></li>
+<li><a href="two-dimensional-kinematics.pptx" data-smd-id="s41">3: Two-Dimensional Kinematics</a></li>
+<li><a href="the-laws-of-motion.pptx" data-smd-id="s42">4: The Laws of Motion</a></li>
+<li><a href="uniform-circular-motion-and-gravitation.pptx" data-smd-id="s43">5: Uniform Circular Motion and Gravitation</a></li>
+<li><a href="work-and-energy.pptx" data-smd-id="s44">6: Work and Energy</a></li>
+<li><a href="linear-momentum-and-collisions.pptx" data-smd-id="s45">7: Linear Momentum and Collisions</a></li>
+<li><a href="static-equilibrium-elasticity-and-torque.pptx" data-smd-id="s46">8: Static Equilibrium, Elasticity, and Torque</a></li>
+<li><a href="rotational-kinematics-angular-momentum-and-energy.pptx" data-smd-id="s47">9: Rotational Kinematics, Angular Momentum, and Energy</a></li>
+<li><a href="fluids.pptx" data-smd-id="s48">10: Fluids</a></li>
+<li><a href="fluid-dynamics-and-its-applications.pptx" data-smd-id="s49">11: Fluid Dynamics and Its Applications</a></li>
+<li><a href="temperature-and-kinetic-theory.pptx" data-smd-id="s50">12: Temperature and Kinetic Theory</a></li>
+<li><a href="heat-and-heat-transfer.pptx" data-smd-id="s51">13: Heat and Heat Transfer</a></li>
+<li><a href="thermodynamics.pptx" data-smd-id="s52">14: Thermodynamics</a></li>
+<li><a href="waves-and-vibrations.pptx" data-smd-id="s53">15: Waves and Vibrations</a></li>
+<li><a href="sound.pptx" data-smd-id="s54">16: Sound</a></li>
+<li><a href="electric-charge-and-field.pptx" data-smd-id="s55">17: Electric Charge and Field</a></li>
+<li><a href="electric-potential-and-electric-field.pptx" data-smd-id="s56">18: Electric Potential and Electric Field</a></li>
+<li><a href="electric-current-and-resistance.pptx" data-smd-id="s57">19: Electric Current and Resistance</a></li>
+<li><a href="circuits-and-direct-currents.pptx" data-smd-id="s58">20: Circuits and Direct Currents</a></li>
+<li><a href="magnetism.pptx" data-smd-id="s59">21: Magnetism</a></li>
+<li><a href="induction-ac-circuits-and-electrical-technologies.pptx" data-smd-id="s60">22: Induction, AC Circuits, and Electrical Technologies</a></li>
+<li><a href="electromagnetic-waves.pptx" data-smd-id="s61">23: Electromagnetic Waves</a></li>
+<li><a href="geometric-optics.pptx" data-smd-id="s62">24: Geometric Optics</a></li>
+<li><a href="vision-and-optical-instruments.pptx" data-smd-id="s63">25: Vision and Optical Instruments</a></li>
+<li><a href="wave-optics.pptx" data-smd-id="s64">26: Wave Optics</a></li>
+<li><a href="special-relativity.pptx" data-smd-id="s65">27: Special Relativity</a></li>
+<li><a href="introduction-to-quantum-physics.pptx" data-smd-id="s66">28: Introduction to Quantum Physics</a></li>
+<li><a href="atomic-physics.pptx" data-smd-id="s67">29: Atomic Physics</a></li>
+<li><a href="nuclear-physics-and-radioactivity.pptx" data-smd-id="s68">30: Nuclear Physics and Radioactivity</a></li>
+</ul>
  
- 
- 
+ </br>
  
  
  
