@@ -80,6 +80,12 @@ for AP Courses</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(45).pdf" style="text-decoration:none;">Relativity for Poets</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(46).pdf" style="text-decoration:none;">Fields and Circuits</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(47).pdf" style="text-decoration:none;">Lab Manual for Physics 205/210</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(48).pdf" style="text-decoration:none;">Lab Manual for Physics 206/211</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(49).pdf" style="text-decoration:none;">Lab Manual for Physics 221</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(50).pdf" style="text-decoration:none;">Lab Manual for Physics 222</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(51).pdf" style="text-decoration:none;">Lab Manual for Physics 223</a></li>
 
 
  </ul>
