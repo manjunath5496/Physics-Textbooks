@@ -84,7 +84,7 @@ for AP Courses</a></li>
 
  </ul>
  </br>
- <h2>Stanford Lecture Notes</h2>
+ <h2>Stanford University Lecture Notes</h2>
 <h2>A - Introduction and MR Review</h2>
 <ul>
 <li>
