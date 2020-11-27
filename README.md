@@ -63,6 +63,22 @@ Volume III: Light, Charges and Brains</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(32).pdf" style="text-decoration:none;">The Adventure of Physics: Volume VI: The StrandModel – A Speculation on Unification (PART II)</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(34).pdf" style="text-decoration:none;">College Physics
 for AP Courses</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(35).pdf" style="text-decoration:none;">Body Physics: Motion to Metabolism</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(36).pdf" style="text-decoration:none;">Electromagnetics, volume 1</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(37).pdf" style="text-decoration:none;">Accessibility of Relativity Lite: A Pictorial Translation of Einstein's Theories of Motion and Gravity</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(38).pdf" style="text-decoration:none;">Applications of Maxwell's Equations</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(39).pdf" style="text-decoration:none;">Electromagnetics, volume 2</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(40).pdf" style="text-decoration:none;">University Physics I: Classical Mechanics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(41).pdf" style="text-decoration:none;">Mechanics and Relativity</a></li>
+
+
+
+
+
+
+
  </ul>
  </br>
  <h2>Stanford Lecture Notes</h2>
