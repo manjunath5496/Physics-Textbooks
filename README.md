@@ -140,7 +140,7 @@ Fifteen Years Later</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/n/Jaffe_cosmology.pdf" style="text-decoration:none;">Cosmology </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/n/peacock_cosmology_notes.pdf" style="text-decoration:none;">Astrophysical Cosmology</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/n/A275.pdf" style="text-decoration:none;">Astronomy 275 Lecture Notes</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/z/sigma.pdf" style="text-decoration:none;">Sigma Models and String Theory  </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/y/sigma.pdf" style="text-decoration:none;">Sigma Models and String Theory  </a></li>
  
  </ul>
  </br>
