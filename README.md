@@ -1159,5 +1159,12 @@ Processes in science and engineering</a></li>
 </ul>
 </br>
 
-
+<p><strong>David Tong: TASI Lectures on Solitons</strong></p>
+<p><a href="k/tasi.pdf">PDF</a></p>
+<ul>
+<li>Instantons:&nbsp;&nbsp;<a href="k/instanton.pdf">PDF</a></li>
+<li>Monopoles:&nbsp;<a href="k/monopole.pdf">PDF</a></li>
+<li>Vortices:&nbsp;<a href="k/vortex.pdf">PDF</a></li>
+<li>Domain Walls:&nbsp;<a href="k/kink.pdf">PDF</a></li>
+</ul>
 
