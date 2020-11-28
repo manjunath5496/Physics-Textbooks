@@ -103,7 +103,14 @@ for AP Courses</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/aqm_notes_180112.pdf" style="text-decoration:none;">Applications of Quantum Mechanics</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/LectureNotes2012.pdf" style="text-decoration:none;">Lecture Notes for Solid State Physics</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/1/quantumhall.pdf" style="text-decoration:none;">The Quantum Hall Effect: A Colloquium</a></li>     
-     
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(61).pdf" style="text-decoration:none;">Quantum Hall Effects</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(62).pdf" style="text-decoration:none;">Three Lectures On Topological Phases Of Matter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(63).pdf" style="text-decoration:none;">Aspects of Chern-Simons Theory</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(64).pdf" style="text-decoration:none;">The Quantum Hall Effect: Novel Excitations and Broken Symmetries</a></li>
+ 
+ 
+ 
+ 
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
