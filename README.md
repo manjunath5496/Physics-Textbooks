@@ -1077,3 +1077,11 @@ for AP Courses</a></li>
 <li><a href="c/Lecture18.pdf">Lecture 18</a>:&nbsp;<em>Applications of Path Integrals to Superfluidity</em></li>
 </ul>
 </br>
+<p><strong>David Tong: Lectures on Kinetic Theory</strong></p>
+<p><a href="d/kintheory.pdf">PDF</a></p>
+<ul>
+<li>Things Bumping Into Other Things: &nbsp;&nbsp;<a href="d/one.pdf">PDF</a></li>
+<li>Kinetic Theory: &nbsp;&nbsp;<a href="d/two.pdf">PDF</a></li>
+<li>Stochastic Processes: &nbsp;&nbsp;<a href="d/three.pdf">PDF</a></li>
+<li>Linear Response: &nbsp;&nbsp;<a href="d/four.pdf">PDF</a></li>
+</ul>
