@@ -1135,4 +1135,21 @@ Processes in science and engineering</a></li>
 <li><strong>Problem Sheet 3:&nbsp;<a href="h/oh3.pdf" data-smd-id="s52">PDF</a></strong>&nbsp;&nbsp;&nbsp; The Dirac Equation</li>
 <li><strong>Problem Sheet 4: &nbsp;<a href="h/oh4.pdf" data-smd-id="s54">PDF</a></strong>&nbsp;&nbsp;&nbsp; Scattering Amplitudes</li>
 </ul>
+</br>
+
+<p><strong>David Tong: Lectures on Gauge Theory</strong></p>
+<p><a href="j/gt.pdf">PDF</a></p>
+<ul>
+<li>Topics in Electromagnetism: &nbsp;&nbsp;<a href="j/1em.pdf">PDF</a></li>
+<li>Yang-Mills Theory: &nbsp;&nbsp;<a href="j/2ym.pdf">PDF</a></li>
+<li>Anomalies: &nbsp;&nbsp;<a href="j/3anom.pdf">PDF</a></li>
+<li>Lattice Gauge Theory: &nbsp;&nbsp;<a href="j/4lattice.pdf">PDF</a></li>
+<li>Chiral Symmetry Breaking: &nbsp;&nbsp;<a href="j/5chisb.pdf">PDF</a></li>
+<li>Large N: &nbsp;&nbsp;<a href="j/6n.pdf">PDF</a></li>
+<li>Quantum Field Theory in Two Dimensions: &nbsp;&nbsp;<a href="j/72d.pdf">PDF</a></li>
+<li>Quantum Field Theory in Three Dimensions: &nbsp;&nbsp;<a href="j/83d.pdf">PDF</a><br /><br /></li>
+</ul>
+</br>
+
+
 
