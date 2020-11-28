@@ -691,9 +691,7 @@ for AP Courses</a></li>
 
 <p><strong>David Tong: Lectures on Dynamics and Relativity</strong></p>
 <p><a href="dynrel.pdf" data-smd-id="s32">PDF</a></p>
-<p>&nbsp;</p>
 <ul>
-<li><strong>Content</strong></li>
 <li><strong>Newtonian Mechanics: &nbsp;&nbsp;<a href="one.pdf" data-smd-id="s34">PDF</a></strong></li>
 <li><strong>Forces: &nbsp;&nbsp;<a href="two.pdf" data-smd-id="s35">PDF</a></strong></li>
 <li><strong>Interlude: Dimensional Analysis: &nbsp;&nbsp;<a href="three.pdf" data-smd-id="s36">PDF</a></strong></li>
