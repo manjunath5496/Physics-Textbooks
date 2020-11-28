@@ -1117,5 +1117,22 @@ Processes in science and engineering</a></li>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; Statistical Field Theory (Part III) :&nbsp;<a href="notes/qstat.pdf" data-smd-id="s18">PDF</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Book list for this course as separate document:&nbsp;&nbsp;<a href="notes/books.pdf" data-smd-id="s20">PDF</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Examples-1:&nbsp;<a href="notes/new_ex1_16.pdf" data-smd-id="s21">(PDF)</a>&nbsp;&nbsp; &nbsp;&nbsp;<span style="color: red;">Draft answers:&nbsp;</span><a href="notes/sfth_ans_ex1.pdf" data-smd-id="s22">(PDF)</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Examples-2:&nbsp;<a href="notes/new_ex2_16.pdf" data-smd-id="s23">(PDF)</a>&nbsp;&nbsp; &nbsp;&nbsp;<span style="color: red;">Draft answers:&nbsp;</span><a href="notes/sfth_ans_ex2.pdf" data-smd-id="s24">(PDF)</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Examples-3:&nbsp;<a href="notes/new_ex3_16.pdf" data-smd-id="s25">(PDF)</a>&nbsp;&nbsp; &nbsp;&nbsp;<span style="color: red;">Draft answers:&nbsp;</span><a href="notes/sfth_ans_ex3.pdf" data-smd-id="s26">(PDF)</a><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 </br>
 
-
+<p><strong>David Tong: Lectures on Quantum Field Theory</strong></p>
+<p><a href="h/qft.pdf" data-smd-id="s31">PDF</a>&nbsp; &nbsp; &nbsp;&nbsp;</p>
+<ul>
+<li><strong>Preliminaries: &nbsp;<a href="h/prelim.pdf" data-smd-id="s34">PDF</a></strong></li>
+<li><strong>Classical Field Theory: &nbsp;<a href="h/one.pdf" data-smd-id="s36">PDF</a></strong></li>
+<li><strong>Canonical Quantization: &nbsp;&nbsp;<a href="h/two.pdf" data-smd-id="s38">PDF</a></strong></li>
+<li><strong>Interacting Fields: &nbsp;<a href="h/three.pdf" data-smd-id="s40">PDF</a></strong></li>
+<li><strong>The Dirac Equation: &nbsp;&nbsp;<a href="h/four.pdf" data-smd-id="s42">PDF</a></strong></li>
+<li><strong>Quantizing the Dirac Field: &nbsp;<a href="h/five.pdf" data-smd-id="s44">PDF</a></strong></li>
+<li><strong>Quantum Electrodynamics: &nbsp;<a href="h/six.pdf" data-smd-id="s46">PDF</a></strong><br /><br /></li>
+</ul>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: <a href="h/oh1.pdf" data-smd-id="s48">PDF</a></strong>&nbsp;&nbsp;&nbsp; Classical Field Theory</li>
+<li><strong>Problem Sheet 2: <a href="h/oh2.pdf" data-smd-id="s50">PDF</a></strong>&nbsp;&nbsp;&nbsp; Quantizing the Scalar Field</li>
+<li><strong>Problem Sheet 3:&nbsp;<a href="h/oh3.pdf" data-smd-id="s52">PDF</a></strong>&nbsp;&nbsp;&nbsp; The Dirac Equation</li>
+<li><strong>Problem Sheet 4: &nbsp;<a href="h/oh4.pdf" data-smd-id="s54">PDF</a></strong>&nbsp;&nbsp;&nbsp; Scattering Amplitudes</li>
+</ul>
 
