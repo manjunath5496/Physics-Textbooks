@@ -111,8 +111,11 @@ for AP Courses</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/2/jaynes.pdf" style="text-decoration:none;">The Gibb's Paradox</a></li> 
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/d/Little_Notes.pdf" style="text-decoration:none;">Applied Stochastic
 Processes in science and engineering</a></li> 
- 
- 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/notes0.91.pdf" style="text-decoration:none;">Dirty tricks for statistical mechanics</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/2016W-217-lectures.pdf" style="text-decoration:none;">Physics 217: The Renormalization Group Winter 2016</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/0909.0859.pdf" style="text-decoration:none;">6 Lectures on QFT, RG and SUSY</a></li>   
+   
+   
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
