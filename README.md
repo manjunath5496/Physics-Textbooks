@@ -135,6 +135,9 @@ Fifteen Years Later</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(76).pdf" style="text-decoration:none;">Electromagnetic Duality for Children</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/m/part3_gr_lectures_2017.pdf" style="text-decoration:none;">Part 3 General Relativity</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/m/black_holes_lectures_2020.pdf" style="text-decoration:none;">Part 3 Black Holes</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/m/9707012.pdf" style="text-decoration:none;">Black Holes</a></li>
+ 
+ 
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
