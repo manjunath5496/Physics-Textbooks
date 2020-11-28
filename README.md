@@ -1011,3 +1011,69 @@ for AP Courses</a></li>
 <li><strong>Problem Sheet 4:&nbsp;<a href="2/omg4.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Thermodynamics and Phase Transitions</li>
 </ul>
 </br>
+<ul>
+<li><a href="a/Lecture_1.pdf">Lecture 1</a>:&nbsp;<em>The Fundamental Postulate</em></li>
+<li><a href="a/Lecture_2.pdf">Lecture 2</a>:&nbsp;<em>A Simple Probability Example</em></li>
+<li><a href="a/Lecture_3.pdf">Lecture 3</a>:&nbsp;<em>Motivation for Fundamental Postulate (Classical)</em></li>
+<li><a href="a/Lecture_4.pdf">Lecture 4</a>:&nbsp;<em>Entropy</em></li>
+<li><a href="a/Lecture_5.pdf">Lecture 5</a>:&nbsp;<em>Energy, Heat and the Carnot Cycle</em></li>
+<li><a href="a/Lecture_6.pdf">Lecture 6</a>:&nbsp;<em>Canonical Ensemble</em></li>
+<li><a href="a/Lecture_7.pdf">Lecture 7</a>:&nbsp;<em>Canonical Ensemble - Simple Examples</em></li>
+<li><a href="a/Lecture_8.pdf">Lecture 8</a>:&nbsp;<em>Polymers (</em><a href="a/review_dna.pdf">Review paper&nbsp;</a>by Michel Peyrard on the statistical physics of DNA)</li>
+<li><a href="a/Lecture_9.pdf">Lecture 9</a>:&nbsp;<em>Grand Canonical Ensemble</em></li>
+<li><a href="a/Lecture_10.pdf">Lecture 10</a>:&nbsp;<em>Other Ensembles/Thermodynamic Potentials (</em><a href="a/thermo.pdf">Handout</a>&nbsp;on&nbsp;<em>Thermodynamic Potentials)</em></li>
+<li><a href="a/Lecture_11.pdf">Lecture 11</a>:&nbsp;<em>Entropy, Information and Maxwell's Demon</em></li>
+<li><a href="a/Lecture_12.pdf">Lecture 12</a>:&nbsp;<em>Quantum Statistical Mechanics</em></li>
+<li><a href="a/Lecture_13.pdf">Lecture 13</a>:&nbsp;<em>Ideal Quantum Gases</em></li>
+<li><a href="a/Lecture_14.pdf">Lecture 14</a>:&nbsp;<em>Bose Condensation</em></li>
+<li><a href="a/Lecture_15.pdf">Lecture 15</a>:&nbsp;<em>Statistical Mechanics of Superfluidity</em></li>
+<li><a href="a/Lecture_16.pdf">Lecture 16</a>:&nbsp;<em>Photons and Phonons</em></li>
+<li><a href="a/Lecture_17.pdf">Lecture 17</a>:&nbsp;<em>Ideal Fermi Gas (</em><a href="a/Diamagnetism.pdf">Handout</a>&nbsp;on diamagnetism of an electron gas.)</li>
+<li><a href="a/Lecture_18.pdf">Lecture 18</a>:&nbsp;<em>Gases with Internal Degrees of Freedom</em></li>
+<li><a href="a/Lecture_19.pdf">Lecture 19</a>:&nbsp;<em>Molecular Gases</em></li>
+</ul>
+</br>
+<ul>
+<li><a href="b/Lecture1.pdf">Lecture 1</a>:&nbsp;<em>Classical Nonideal Gas</em></li>
+<li><a href="b/Lecture2.pdf">Lecture 2</a>:&nbsp;<em>Dense Gases and the Liquid State</em></li>
+<li><a href="b/Lecture3.pdf">Lecture 3</a>:&nbsp;<em>First Order Phase Transitions</em></li>
+<li><a href="b/Lecture4.pdf">Lecture 4</a>:&nbsp;<em>Phase Transitions in Multicomponent Systems</em></li>
+<li><a href="b/Lecture5.pdf">Lecture 5</a>:&nbsp;<em>Second Order Phase Transitions</em></li>
+<li><a href="b/Lecture6.pdf">Lecture 6</a>:&nbsp;<em>Landau Theory</em></li>
+<li><a href="b/Lecture7.pdf">Lecture 7</a>:&nbsp;<em>Fluctuations</em></li>
+<li><a href="b/Lecture8.pdf">Lecture 8</a>:&nbsp;<em>Scaling</em></li>
+<li><a href="b/Lecture9.pdf">Lecture 9</a>:&nbsp;<em>RNG: 1D Ising Model</em></li>
+<li><a href="b/Lecture10.pdf">Lecture 10</a>:&nbsp;<em>RNG: General Case</em></li>
+<li><a href="b/Lecture11.pdf">Lecture 11</a>:&nbsp;<em>RNG: Advanced Topics</em></li>
+<li><a href="b/Lecture12.pdf">Lecture 12</a>:&nbsp;<em>Kinetic Theory</em></li>
+<li><a href="b/Lecture13.pdf">Lecture 13</a>:&nbsp;<em>Boltzmann Equation I: Scattering off Impurities</em></li>
+<li><a href="b/Lecture14.pdf">Lecture 14</a>:&nbsp;<em>Boltzmann Equation II: Binary Scattering</em></li>
+<li><a href="b/Lecture15.pdf">Lecture 15</a>:&nbsp;<em>Brownian Motion</em></li>
+<li><a href="b/Lecture16.pdf">Lecture 16</a>:&nbsp;<em>Langevin Equation</em></li>
+<li><a href="b/Lecture17.pdf">Lecture 17</a>:&nbsp;<em>Fokker-Planck Equation</em></li>
+<li><a href="b/Lecture18.pdf">Lecture 18</a>:&nbsp;<em>Linear Response Theory, etc.</em></li>
+</ul>
+
+</br>
+
+<ul>
+<li><a href="c/Lecture1.pdf">Lecture 1</a>:&nbsp;<em>Second Quantization</em></li>
+<li><a href="c/Lecture2.pdf">Lecture 2</a>:&nbsp;<em>Feynman Diagrams</em></li>
+<li><a href="c/Lecture3.pdf">Lecture 3</a>:&nbsp;<em>Weakly Interacting Bose Gas</em></li>
+<li><a href="c/Lecture4.pdf">Lecture 4</a>:&nbsp;<em>Superfluidity</em></li>
+<li><a href="c/Lecture5.pdf">Lecture 5</a>:&nbsp;<em>Vortex Lines</em></li>
+<li><a href="c/Lecture6.pdf">Lecture 6</a>:&nbsp;<em>Kosterlitz-Thouless Transition</em></li>
+<li><a href="c/Lecture7.pdf">Lecture 7</a>:&nbsp;<em>Bose-Einstein Condensation in Atomic Traps</em></li>
+<li><a href="c/Lecture8.pdf">Lecture 8</a>:&nbsp;<em>Weakly Interacting Fermions</em></li>
+<li><a href="c/Lecture9.pdf">Lecture 9</a>:&nbsp;<em>Fermi Liquid Theory: Principles</em></li>
+<li><a href="c/Lecture10.pdf">Lecture 10</a>:&nbsp;<em>Fermi Liquid Theory: Thermodynamics</em></li>
+<li><a href="c/Lecture11.pdf">Lecture 11</a>:&nbsp;<em>Collective Modes in Fermi Liquid</em></li>
+<li><a href="c/Lecture12.pdf">Lecture 12</a>:&nbsp;<em>Superconductivity: Microscopics</em></li>
+<li><a href="c/Lecture13.pdf">Lecture 13</a>:&nbsp;<em>Superconductivity: Thermodynamics and Superflow</em></li>
+<li><a href="c/Lecture14.pdf">Lecture 14</a>:&nbsp;<em>Superconductivity: Ginzburg-Landau Theory</em></li>
+<li><a href="c/Lecture15.pdf">Lecture 15</a>:&nbsp;<em>Monte Carlo Method</em></li>
+<li><a href="c/Lecture16.pdf">Lecture 16</a>:&nbsp;<em>Quantum Monte Carlo</em></li>
+<li><a href="c/Lecture17.pdf">Lecture 17</a>:&nbsp;<em>Path Integral Method</em></li>
+<li><a href="c/Lecture18.pdf">Lecture 18</a>:&nbsp;<em>Applications of Path Integrals to Superfluidity</em></li>
+</ul>
+</br>
