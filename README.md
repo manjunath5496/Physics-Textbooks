@@ -94,7 +94,8 @@ for AP Courses</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/newton.pdf" style="text-decoration:none;">What Would Newton Do? </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/relativity.pdf" style="text-decoration:none;">Relativity: The Special and General Theory </a></li>
   
-  
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/110A_ALL.pdf" style="text-decoration:none;">Lecture Notes for Physics 110A</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/110B_ALL.pdf" style="text-decoration:none;">Lecture Notes for Physics 110B </a></li>
   
   
  </ul>
