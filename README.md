@@ -115,7 +115,15 @@ Processes in science and engineering</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/2016W-217-lectures.pdf" style="text-decoration:none;">Physics 217: The Renormalization Group Winter 2016</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/0909.0859.pdf" style="text-decoration:none;">6 Lectures on QFT, RG and SUSY</a></li>   
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/h/lectures12.pdf" style="text-decoration:none;">Quantum Condensed Matter Field Theory</a></li>      
-   
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(65).pdf" style="text-decoration:none;">Chiral Symmetry and Lattice Fermions</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(66).pdf" style="text-decoration:none;">Three Lectures On Topological Phases Of Matter</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(67).pdf" style="text-decoration:none;">A Chiral Perturbation Theory Primer</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(68).pdf" style="text-decoration:none;">Lectures on Anomalies </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(69).pdf" style="text-decoration:none;">LARGE N QCD</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(70).pdf" style="text-decoration:none;">Aspects of Chern-Simons Theory</a></li>
+ 
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
