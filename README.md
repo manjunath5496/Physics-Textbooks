@@ -1252,4 +1252,12 @@ Fifteen Years Later</a></li>
 <li><a href="z/astro610_problem_set3.pdf" data-smd-id="s45">Problem Set 3</a>&nbsp;[<a href="z/astro610_problem_set3_answers.pdf" data-smd-id="s46">solutions</a>]</li>
 </ul>
 </br>
-
+<p><strong>David Tong: Concepts in Theoretical Physics</strong></p>
+<ul>
+<li>Principle of Least Action:&nbsp;<a href="z/action.pdf">&nbsp; PDF File</a></li>
+<li>Quantum Mechanics&nbsp;<a href="z/quantum.pdf">&nbsp; PDF File</a></li>
+<li>Particle Physics&nbsp;<a href="z/particle.pdf">&nbsp; PDF File</a></li>
+<li>General Relativity:<a href="z/gr.pdf">&nbsp; PDF File</a></li>
+<li>Cosmology:<a href="z/cosmology.pdf">&nbsp;PDF File</a></li>
+</ul>
+</br>
