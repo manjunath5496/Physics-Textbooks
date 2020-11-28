@@ -108,7 +108,7 @@ for AP Courses</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(63).pdf" style="text-decoration:none;">Aspects of Chern-Simons Theory</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(64).pdf" style="text-decoration:none;">The Quantum Hall Effect: Novel Excitations and Broken Symmetries</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/2/210_COURSE.pdf" style="text-decoration:none;">Lecture Notes on Thermodynamics and Statistical Mechanics</a></li> 
- 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/2/jaynes.pdf" style="text-decoration:none;">The Gibb's Paradox</a></li> 
  
  
  </ul>
