@@ -720,5 +720,12 @@ for AP Courses</a></li>
 
 </br>
 
-
-
+<p><strong>Joseph Minahan's Lecture Notes</strong></p>
+<ul>
+<li><a class="pdf" href="c_405910-l_1-k_notes_v3_0.pdf">Lecture notes in mathematical physics</a></li>
+<li><a class="pdf" href="c_405910-l_3-k_specrel.pdf">Joe's relatively small book on special relativity</a></li>
+<li><a class="pdf" href="c_405910-l_3-k_lectures_all_0.pdf">Lecture notes in general relativity</a></li>
+<li><a class="pdf" href="c_405910-l_3-k_wholeshebang_hyper.pdf">Lecture notes in quantum field theory (taught at MIT, spring 2011)</a></li>
+<li><a class="pdf" href="c_405910-l_3-k_qft.pdf">Lecture notes in QFT</a></li>
+</ul>
+</br>
