@@ -98,6 +98,9 @@ for AP Courses</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/110B_ALL.pdf" style="text-decoration:none;">Lecture Notes for Physics 110B </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/lec3.rar" style="text-decoration:none;">Kvantfysik's Lecture Notes (Quantum Mechanics) </a></li>  
   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/dyson.pdf" style="text-decoration:none;">Why Maxwell's theory is so hard to understand.</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/macfarlane.pdf" style="text-decoration:none;">Electromagnetism</a></li>
+  
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
