@@ -990,3 +990,24 @@ for AP Courses</a></li>
 <li>Chern-Simons Theories: &nbsp;&nbsp;<a href="1/five.pdf">PDF</a></li>
 <li>Edge Modes: &nbsp;&nbsp;<a href="1/six.pdf">PDF</a></li>
 </ul>
+</br>
+
+<p>&nbsp;<strong>David Tong: Lectures on Statistical Physics</strong></p>
+<p><a href="2/sp.pdf">PDF</a></p>
+
+<ul>
+<li><strong>Fundamentals of Statistical Mechanics: &nbsp;&nbsp;<a href="2/one.pdf">PDF</a></strong></li>
+<li><strong>Classical Gases: &nbsp;&nbsp;<a href="2/two.pdf">PDF</a></strong></li>
+<li><strong>Quantum Gases: &nbsp;&nbsp;<a href="2/three.pdf">PDF</a></strong></li>
+<li><strong>Classical Thermodynamics: &nbsp;&nbsp;<a href="2/four.pdf">PDF</a></strong></li>
+<li><strong>Phase Transitions: &nbsp;&nbsp;<a href="2/five.pdf">PDF</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1:&nbsp;&nbsp;<a href="2/omg1.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Ensembles &nbsp;&nbsp;</li>
+<li><strong>Problem Sheet 2: <a href="2/omg2.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Classical and Quantum Gases &nbsp;&nbsp;</li>
+<li><strong>Problem Sheet 3: <a href="2/omg3.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Bosons and Fermions &nbsp;&nbsp;</li>
+<li><strong>Problem Sheet 4:&nbsp;<a href="2/omg4.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Thermodynamics and Phase Transitions</li>
+</ul>
+</br>
