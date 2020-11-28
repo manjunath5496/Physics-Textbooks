@@ -1225,6 +1225,31 @@ Fifteen Years Later</a></li>
 </ul>
 </br>
 
-
-
+<ul>
+<li><a href="z/astro610_lecture1.pdf" data-smd-id="s47">Lecture 1:</a>&nbsp;Introduction; Galaxy Formation in a Nutshell (including one-slide overview)</li>
+<li><a href="z/astro610_lecture2.pdf" data-smd-id="s48">Lecture 2:</a>&nbsp;Cosmology (Riemannian geometry, FRW metric)</li>
+<li><a href="z/astro610_lecture3.pdf" data-smd-id="s49">Lecture 3:</a>&nbsp;Cosmology (General Relativity, Friedmann equations)</li>
+<li><a href="z/astro610_lecture4.pdf" data-smd-id="s50">Lecture 4:</a>&nbsp;Structure Formation in the Linear Regime I: Foreplay</li>
+<li><a href="z/astro610_lecture5.pdf" data-smd-id="s51">Lecture 5:</a>&nbsp;Structure Formation in the Linear Regime II: Baryons</li>
+<li><a href="z/astro610_lecture6.pdf" data-smd-id="s52">Lecture 6:</a>&nbsp;Structure Formation in the Linear Regime III: Dark Matter</li>
+<li><a href="z/astro610_lecture7.pdf" data-smd-id="s53">Lecture 7:</a>&nbsp;Transfer Function &amp; Cosmic Microwave Background</li>
+<li><a href="z/astro610_lecture8.pdf" data-smd-id="s54">Lecture 8:</a>&nbsp;Non-Linear Collapse &amp; Relaxation</li>
+<li><a href="z/astro610_lecture9.pdf" data-smd-id="s55">Lecture 9:</a>&nbsp;Press-Schechter Theory &amp; Halo Mass Functions</li>
+<li><a href="z/astro610_lecture10.pdf" data-smd-id="s56">Lecture 10:</a>&nbsp;Merger Trees &amp; Halo Bias</li>
+<li><a href="z/astro610_lecture11.pdf" data-smd-id="s57">Lecture 11:</a>&nbsp;Structure of Dark Matter Haloes</li>
+<li><a href="z/astro610_lecture12.pdf" data-smd-id="s58">Lecture 12:</a>&nbsp;Large Scale Structure</li>
+<li><a href="z/astro610_lecture13.pdf" data-smd-id="s59">Lecture 13:</a>&nbsp;The Halo Model &amp; Halo Occupation Statistics</li>
+<li><a href="z/astro610_lecture14.pdf" data-smd-id="s60">Lecture 14:</a>&nbsp;Galaxy Interactions &amp; Transformations</li>
+<li><a href="z/astro610_lecture15.pdf" data-smd-id="s61">Lecture 15:</a>&nbsp;Cooling &amp; Photo-Ionization Heating</li>
+<li><a href="z/astro610_lecture16.pdf" data-smd-id="s62">Lecture 16:</a>&nbsp;Star Formation</li>
+<li><a href="z/astro610_lecture17.pdf" data-smd-id="s63">Lecture 17:</a>&nbsp;Supernova Feedback</li>
+<li><a href="z/astro610_lecture18.pdf" data-smd-id="s64">Lecture 18:</a>&nbsp;Structure &amp; Formation of Disk Galaxies</li>
+<li><a href="z/astro610_lecture19.pdf" data-smd-id="s65">Lecture 19:</a>&nbsp;Structure &amp; Formation of Elliptical Galaxies</li>
+<li><a href="z/astro610_lecture20.pdf" data-smd-id="s66">Lecture 20:</a>&nbsp;Numerical Simulations</li>
+<li><a href="z/astro610_summary.pdf" data-smd-id="s67">Summary:</a>&nbsp;a summary of lecture 1-14</li>
+<li><a href="z/astro610_problem_set1.pdf" data-smd-id="s41">Problem Set 1</a>&nbsp;[<a href="z/astro610_problem_set1_answers.pdf" data-smd-id="s42">solutions</a>]</li>
+<li><a href="z/astro610_problem_set2.pdf" data-smd-id="s43">Problem Set 2</a>&nbsp;[<a href="z/astro610_problem_set2_answers.pdf" data-smd-id="s44">solutions</a>]</li>
+<li><a href="z/astro610_problem_set3.pdf" data-smd-id="s45">Problem Set 3</a>&nbsp;[<a href="z/astro610_problem_set3_answers.pdf" data-smd-id="s46">solutions</a>]</li>
+</ul>
+</br>
 
