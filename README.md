@@ -102,6 +102,8 @@ for AP Courses</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/macfarlane.pdf" style="text-decoration:none;">Electromagnetism</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/aqm_notes_180112.pdf" style="text-decoration:none;">Applications of Quantum Mechanics</a></li>
      <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/LectureNotes2012.pdf" style="text-decoration:none;">Lecture Notes for Solid State Physics</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/1/quantumhall.pdf" style="text-decoration:none;">The Quantum Hall Effect: A Colloquium</a></li>     
+     
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
