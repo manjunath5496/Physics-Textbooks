@@ -619,3 +619,27 @@ for AP Courses</a></li>
 </tr>
 </tbody>
 </table>
+</br>
+
+<h2 class="page-href">Harvard Lecture Notes</h2>
+<ul>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="intro slides.pdf">intro slides.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 1 slides.pdf" >lecture 1 slides.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 1.pdf">lecture 1.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 2 slides.pdf">lecture 2 slides.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 2.pdf">lecture 2.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 3.pdf">lecture 3.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 4 part 1.pdf">lecture 4 part 1.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 4 part 2.pdf">lecture 4 part 2.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 5.pdf">lecture 5.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 6 slides.pdf">lecture 6 slides.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 6_corrected_v2.pdf">lecture 6_corrected_v2.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 7.pdf">lecture 7.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="lecture 8.pdf">lecture 8.pdf</a></span></li>
+<li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="PS1_Solution.pdf">PS1_Solution.pdf</a></span></li>
+</ul>
+
+
+
+
+
