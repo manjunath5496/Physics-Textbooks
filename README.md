@@ -971,3 +971,13 @@ for AP Courses</a></li>
 
 </br>
 
+<p><strong>David Tong: Lectures on the Quantum Hall Effect</strong></p>
+<p><a href="1/qhe.pdf">PDF</a></p>
+<ul>
+<li>The Basics: &nbsp;&nbsp;<a href="1/one.pdf">PDF</a></li>
+<li>The Integer Quantum Hall Effect: &nbsp;&nbsp;<a href="1/two.pdf">PDF</a></li>
+<li>The Fractional Quantum Hall Effect: &nbsp;&nbsp;<a href="1/three.pdf">PDF</a></li>
+<li>Non-Abelian Quantum Hall States: &nbsp;&nbsp;<a href="1/four.pdf">PDF</a></li>
+<li>Chern-Simons Theories: &nbsp;&nbsp;<a href="1/five.pdf">PDF</a></li>
+<li>Edge Modes: &nbsp;&nbsp;<a href="1/six.pdf">PDF</a></li>
+</ul>
