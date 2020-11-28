@@ -731,7 +731,6 @@ for AP Courses</a></li>
 </br>
 <p><strong>David Tong: Lectures on Classical Dynamics</strong></p>
 <p>&nbsp;<a href="clas.pdf">PDF</a></p>
-<p><strong>&nbsp;</strong></p>
 <ul>
 <li><strong>Newtonian Mechanics: &nbsp;&nbsp;<a href="one.pdf">PDF</a></strong></li>
 <li><strong>The Lagrangian Formulation: &nbsp;&nbsp;<a href="two.pdf">PDF</a></strong></li>
