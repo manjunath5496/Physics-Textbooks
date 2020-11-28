@@ -1087,3 +1087,23 @@ Processes in science and engineering</a></li>
 <li>Stochastic Processes: &nbsp;&nbsp;<a href="d/three.pdf">PDF</a></li>
 <li>Linear Response: &nbsp;&nbsp;<a href="d/four.pdf">PDF</a></li>
 </ul>
+</br>
+
+<p><strong>David Tong: Lectures on Statistical Field Theory</strong></p>
+<p>&nbsp;<a href="e/sft.pdf">PDF</a></p>
+<ul>
+<li>From Spins to Fields: &nbsp;&nbsp;<a href="e/one.pdf">PDF</a></li>
+<li>My First Path Integral: &nbsp;&nbsp;<a href="e/two.pdf">PDF</a></li>
+<li>The Renormalisation Group: &nbsp;&nbsp;<a href="e/three.pdf">PDF</a></li>
+<li>Continuous Symmetry: &nbsp;&nbsp;<a href="e/four.pdf">PDF</a></li>
+</ul>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: &nbsp;<a href="e/99a.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Mean Field Theory</li>
+<li><strong>Problem Sheet 2: &nbsp;<a href="e/99b.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Mostly Scaling</li>
+<li><strong>Problem Sheet 3: &nbsp;<a href="e/99c.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; RG</li>
+</ul>
+
+</br>
+
+
