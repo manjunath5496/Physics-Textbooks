@@ -748,7 +748,6 @@ for AP Courses</a></li>
 </br>
 <p><strong>David Tong: Lectures on Electromagnetism</strong></p>
 <p>&nbsp;<a href="electro.pdf">PDF</a></p>
-<p>&nbsp;</p>
 <ul>
 <li>Div, Grad and Curl: &nbsp;&nbsp;<a href="prelim.pdf">PDF</a></li>
 <li>Introduction and Electrostatics: &nbsp;&nbsp;<a href="el1.pdf">PDF</a></li>
