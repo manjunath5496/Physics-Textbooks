@@ -787,3 +787,94 @@ for AP Courses</a></li>
 <li><strong>Notes on Spherical Bessel Functions: <a href="bessel.pdf">PDF</a></strong></li>
 </ul>
 </br>
+<table class="ugrad-table">
+<thead>
+<tr>
+<td>Lecture</td>
+<td>Description</td>
+<td>Problem sets</td>
+</tr>
+</thead>
+<tbody>
+<tr class="rowcolour">
+<td>&nbsp;</td>
+<td><a href="handout_preface.pdf" target="_blank">Preface</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="lec1.pdf" target="_blank">Lec 1</a></td>
+<td><a href="handout_foundations.pdf" target="_blank">Foundations of quantum physics</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec2.pdf" target="_blank">Lec 2</a></td>
+<td><a href="handout_1d.pdf" target="_blank">Quantum mechanics in one dimension</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="lec3.pdf" target="_blank">Lec 3</a></td>
+<td><a href="handout_operator.pdf" target="_blank">Operator methods in quantum mechanics</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec4.pdf" target="_blank">Lec 4</a></td>
+<td><a href="handout_central.pdf" target="_blank">Quantum mechanics in more than one dimension</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="lec5.pdf" target="_blank">Lec 5-6</a></td>
+<td><a href="handout_charged.pdf" target="_blank">Motion of a charged particle in a magnetic field</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec6.pdf" target="_blank">Lec 6-7</a></td>
+<td><a href="handout_spin.pdf" target="_blank">Quantum mechanical spin and addition of angular momenta</a></td>
+<td><a href="ps1.pdf" target="_blank">Problem set I</a>&nbsp;<a href="ans1.pdf" target="_blank">Answers</a></td>
+</tr>
+<tr>
+<td><a href="lec8-10.pdf" target="_blank">Lec 8-10</a></td>
+<td><a href="handout_approx.pdf" target="_blank">Approximation methods for stationary states (perturbation theory, variational method and WKB)</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec11.pdf" target="_blank">Lec 11</a></td>
+<td><a href="handout_ident.pdf" target="_blank">Identical particles</a></td>
+<td><a href="ps2.pdf" target="_blank">Problem set II</a>&nbsp;<a href="ans2.pdf" target="_blank">Answers</a></td>
+</tr>
+<tr>
+<td><a href="lec12-14.pdf" target="_blank">Lec 12-14</a></td>
+<td><a href="handout_atomic.pdf" target="_blank">Atomic structure</a></td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec15.pdf" target="_blank">Lec 15</a></td>
+<td><a href="handout_molecular.pdf" target="_blank">From molecules to solids</a></td>
+<td><a href="ps3.pdf" target="_blank">Problem set III</a>&nbsp;<a href="ans3.pdf" target="_blank">Answers</a></td>
+</tr>
+<tr>
+<td><a href="lec16-17.pdf" target="_blank">Lec 16-17</a></td>
+<td><a href="handout_phonons.pdf" target="_blank">Quantum field theory: from phonons to photons</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec18.pdf" target="_blank">Lec 18</a></td>
+<td><a href="handout_dep.pdf" target="_blank">Time-dependent perturbation theory</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="lec19.pdf" target="_blank">Lec 19</a></td>
+<td><a href="handout_transitions.pdf" target="_blank">Radiative transitions and quantum optics</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr class="rowcolour">
+<td><a href="lec20-21.pdf" target="_blank">Lec 20-21</a></td>
+<td><a href="handout_scattering.pdf" target="_blank">Scattering theory</a></td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td><a href="lec22-24.pdf" target="_blank">Lec 22-24</a></td>
+<td><a href="handout_relqu.pdf" target="_blank">Relativistic quantum mechanics</a></td>
+<td><a href="ps4.pdf" target="_blank">Problem set IV</a>&nbsp;<a href="ans4.pdf" target="_blank">Answers</a></td>
+</tr>
+</tbody>
+</table>
+</br>
