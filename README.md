@@ -934,3 +934,26 @@ for AP Courses</a></li>
 <li>Appendix D:&nbsp;Vector Calculus&nbsp;, &nbsp;<a href="vecident.pdf">pdf</a>&nbsp;format.</li>
 <li>Appendix E:&nbsp;Tensor Analysis&nbsp;, &nbsp;<a href="tensor.pdf">pdf</a>&nbsp;format.</li>
 </ul>
+</br>
+
+<p><strong>David Tong: Lectures on Solid State Physics</strong></p>
+<p>&nbsp;<a href="solidstate.pdf">PDF</a></p>
+<ul>
+<li><strong>Particles in Magnetic Fields: &nbsp;&nbsp;<a href="solid1.pdf">PDF</a></strong></li>
+<li><strong>Band Structure: &nbsp;&nbsp;<a href="solid2.pdf">PDF</a></strong></li>
+<li><strong>Electron Dynamics in Solids: &nbsp;&nbsp;<a href="solid3.pdf">PDF</a></strong></li>
+<li><strong>Phonons: &nbsp;&nbsp;<a href="solid4.pdf">PDF</a></strong><br /><br /></li>
+</ul>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: <a href="fbd1.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Scattering</li>
+<li><strong>Problem Sheet 2: <a href="fbd2.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Variational Method, 1d Band Structure</li>
+<li><strong>Problem Sheet 3: <a href="fbd3.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; 3d Band Structure; Fermi Surfaces &nbsp;&nbsp;</li>
+<li><strong>Problem Sheet 4: <a href="fbd4.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Phonons; Particles in a Magnetic Field</li>
+</ul>
+</br>
+
+
+
+
+
