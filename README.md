@@ -729,3 +729,21 @@ for AP Courses</a></li>
 <li><a class="pdf" href="c_405910-l_3-k_qft.pdf">Lecture notes in QFT</a></li>
 </ul>
 </br>
+<p><strong>David Tong: Lectures on Classical Dynamics</strong></p>
+<p>&nbsp;<a href="clas.pdf">PDF</a></p>
+<p><strong>&nbsp;</strong></p>
+<ul>
+<li><strong>Newtonian Mechanics: &nbsp;&nbsp;<a href="one.pdf">PDF</a></strong></li>
+<li><strong>The Lagrangian Formulation: &nbsp;&nbsp;<a href="two.pdf">PDF</a></strong></li>
+<li><strong>The Motion of Rigid Bodies: &nbsp;&nbsp;<a href="three.pdf">PDF</a></strong></li>
+<li><strong>The Hamiltonian Formulation: &nbsp;&nbsp;<a href="four.pdf">PDF</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: &nbsp;<a href="mf1.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Lagrangian Formulation</li>
+<li><strong>Problem Sheet 2: &nbsp;<a href="mf2.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Normal Modes, Inertia Tensors and Rotations</li>
+<li><strong>Problem Sheet 3: &nbsp;<a href="mf3.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Euler's Equations and Euler Angles</li>
+<li><strong>Problem Sheet 4: &nbsp;<a href="mf4.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Hamiltonian Formulation</li>
+</ul>
+</br>
