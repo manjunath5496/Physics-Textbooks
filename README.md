@@ -89,6 +89,13 @@ for AP Courses</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(52).pdf" style="text-decoration:none;">Discover Physics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(53).pdf" style="text-decoration:none;">Astronomy </a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(54).pdf" style="text-decoration:none;">Nuclear Physics For Cultural Heritage</a></li>
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/stephen.pdf" style="text-decoration:none;">Dynamics and Relativity</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/newton.pdf" style="text-decoration:none;">What Would Newton Do? </a></li>
+  
+  
+  
+  
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
