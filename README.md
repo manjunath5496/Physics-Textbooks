@@ -639,7 +639,51 @@ for AP Courses</a></li>
 <li><span class="instructure_file_holder link_holder"><a class="instructure_file_link" href="PS1_Solution.pdf">PS1_Solution.pdf</a></span></li>
 </ul>
 
+</br>
 
+<h2 class="title">STATISTICAL MECHANICS</h2>
+<ul>
+<li><a href="1-Probability.pdf" data-smd-id="s11">Lecture 1: Probability</a></li>
+<li><a href="2-Diffusion.pdf" data-smd-id="s12">Lecture 2: Diffusion</a></li>
+<li><a href="3-Equilibrium.pdf" data-smd-id="s13">Lecture 3: Equilibrium</a></li>
+<li><a href="4-Temperature.pdf" data-smd-id="s14">Lecture 4: Tempreature</a></li>
+<li><a href="5-Thermodynamics.pdf" data-smd-id="s15">Lecture 5: Thermodynamics</a></li>
+<li><a href="6-Entropy.pdf" data-smd-id="s16">Lecture 6: Entropy</a></li>
+<li><a href="7-Ensembles.pdf" data-smd-id="s17">Lecture 7: Ensembles</a></li>
+<li><a href="8-FreeEnergy.pdf" data-smd-id="s18">Lecture 8: Free Energy</a></li>
+<li><a href="9-Phases.pdf" data-smd-id="s19">Lecture 9: Phase Transitions</a></li>
+<li><a href="10-QuantumStatMech.pdf" data-smd-id="s20">Lecture 10: Quantum Statistical Mechanics</a></li>
+<li><a href="11-PhononsPhotons.pdf" data-smd-id="s21">Lecture 11: Phonons and Photons</a></li>
+<li><a href="12-BEC.pdf" data-smd-id="s22">Lecture 12: Bose-Einstein Condensation</a></li>
+<li><a href="13-Metals.pdf" data-smd-id="s23">Lecture 13: Metals</a></li>
+<li><a href="14-Semiconductors.pdf" data-smd-id="s24">Lecture 14: Semiconductors</a></li>
+<li><a href="15-Stars.pdf" data-smd-id="s25">Lecture 15: Stars</a></li>
+</ul>
+</br>
+<h2 class="title">WAVES</h2>
+<ul>
+<li><a href="Lecture1-Oscillators-And-Linearity.pdf" data-smd-id="s26">Lecture 1: Oscillators and linearity</a></li>
+<li><a href="Lecture2-Driven-Oscillators.pdf" data-smd-id="s27">Lecture 2: Driven oscillators</a></li>
+<li><a href="Lecture3-Coupled-Oscillators.pdf" data-smd-id="s28">Lecture 3: Coupled oscillators</a></li>
+<li><a href="Lecture4-Oscillators-to-Waves.pdf" data-smd-id="s29">Lecture 4: From oscillators to waves</a></li>
+<li><a href="Lecture5-Fourier.pdf" data-smd-id="s30">Lecture 5: Fourier series</a></li>
+<li><a href="Lecture6-Waves.pdf" data-smd-id="s31">Lecture 6: Waves</a></li>
+<li><a href="Lecture7-Music.pdf" data-smd-id="s32">Lecture 7: Music</a></li>
+<li><a href="Lecture8-FourierTransforms.pdf" data-smd-id="s33">Lecture 8: Fourier transforms</a></li>
+<li><a href="Lecture9-Impedance.pdf" data-smd-id="s34">Lecture 9: Reflection, Transmission and Impedance</a></li>
+<li><a href="Lecture10-Power.pdf" data-smd-id="s35">Lecture 10: Power</a></li>
+<li><a href="Lecture11-WavePackets.pdf" data-smd-id="s36">Lecture 11: Wavepackets</a></li>
+<li><a href="Lecture12-Muller.pdf" data-smd-id="s37">Lecture 12: Waves chapter from Muller's book&nbsp;</a>(taken from&nbsp;<a href="http://muller.lbl.gov/teaching/Physics10/PffP.html" data-smd-id="s38">here&nbsp;</a>)</li>
+<li><a href="Lecture13-Light.pdf" data-smd-id="s39">Lecture 13: Light</a></li>
+<li><a href="Lecture14-Polarization.pdf" data-smd-id="s40">Lecture 14: Polarization</a></li>
+<li><a href="Lecture15-Refraction.pdf" data-smd-id="s41">Lecture 15: Refraction</a></li>
+<li><a href="Lecture16-Prisms.pdf" data-smd-id="s42">Lecture 16: Prisms</a></li>
+<li><a href="Lecture17-Color.pdf" data-smd-id="s43">Lecture 17: Color</a></li>
+<li><a href="Lecture18-Antennas.pdf" data-smd-id="s44">Lecture 18: Antennas</a></li>
+<li><a href="Lecture19-Diffraction.pdf" data-smd-id="s45">Lecture 19: Diffraction</a></li>
+<li><a href="Lecture20-Quantum.pdf" data-smd-id="s46">Lecture 20: Quantum mechanics</a></li>
+<li><a href="Lecture21-Doppler.pdf" data-smd-id="s47">Lecture 21: The Doppler effect</a></li>
+</ul>
 
 
 
