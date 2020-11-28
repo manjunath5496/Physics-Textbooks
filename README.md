@@ -878,3 +878,59 @@ for AP Courses</a></li>
 </tbody>
 </table>
 </br>
+
+<ul>
+<li>Notes 1:&nbsp;The Mathematical Formalism of Quantum Mechanics, &nbsp;<a href="hilbert.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 2:&nbsp;The Postulates of Quantum Mechanics, &nbsp;<a href="postulat.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 3:&nbsp;The Density Operator, &nbsp;<a href="density.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 4:&nbsp;Spatial Degrees of Freedom, &nbsp;<a href="spatialdof.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 5:&nbsp;Time Evolution in Quantum Mechanics, &nbsp;<a href="tevolut.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 6:&nbsp;Topics in One-Dimensional Wave Mechanics, &nbsp;<a href="topicsoned.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 7:&nbsp;The WKB Method, &nbsp;<a href="wkb.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 8:&nbsp;Harmonic Oscillators and Coherent States, &nbsp;<a href="harmosc.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 9:&nbsp;The Propagator and the Path Integral, &nbsp;<a href="pathint.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 10:&nbsp;Charged Particles in Magnetic Fields, &nbsp;<a href="magfield.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 11:&nbsp;Rotations in Ordinary Space, &nbsp;<a href="classrot.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 12:&nbsp;Rotations in Quantum Mechanics, and Rotations of Spin 1/2 Systems, &nbsp;<a href="spinrot.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 13:&nbsp;Representations of the Angular Momentum Operators and Rotations, &nbsp;<a href="repsamos.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 14:&nbsp;Spins in Magnetic Fields, &nbsp;<a href="spinmagf.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 15:&nbsp;Orbital Angular Momentum and Spherical Harmonics, &nbsp;<a href="orbamsph.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 16:&nbsp;Central Force Motion, &nbsp;<a href="cenforce.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 17:&nbsp;Coupling of Angular Momenta, &nbsp;<a href="jjcouple.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 18:&nbsp;Irreducible Tensor Operators and the Wigner-Eckart Theorem, &nbsp;<a href="wigeck.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 19:&nbsp;Parity, &nbsp;<a href="parity.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 20:&nbsp;Time Reversal, &nbsp;<a href="timerev.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 21:&nbsp;Bound-State Perturbation Theory, &nbsp;<a href="pertth.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 22:&nbsp;The Stark Effect in Hydrogen and Alkali Atoms, &nbsp;<a href="stark.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 23:&nbsp;Fine Structure in Hydrogen and Alkali Atoms, &nbsp;<a href="finestruc.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 24:&nbsp;The Zeeman Effect in Hydrogen and Alkali Atoms, &nbsp;<a href="zeeman.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 25:&nbsp;Hyperfine Structure in Atoms, &nbsp;<a href="hyperfine.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 26:&nbsp;The Variational Method, &nbsp;<a href="variational.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 27:&nbsp;Identical Particles, &nbsp;<a href="identpart.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 28:&nbsp;Helium and Helium-like Atoms, &nbsp;<a href="helium.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 29:&nbsp;The Thomas-Fermi Model, &nbsp;<a href="thomferm.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 30:&nbsp;The Hartree-Fock Method in Atoms, &nbsp;<a href="hartfock.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 31:&nbsp;Elements of Atomic Structure in Multi-Electron Atoms, &nbsp;<a href="atomstruc.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 32:&nbsp;Time-Dependent Perturbation Theory, &nbsp;<a href="tdpt.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 33:&nbsp;The Photoelectric Effect, &nbsp;<a href="photelec.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 34:&nbsp;Introduction to Scattering Theory and Scattering from Central Force Potentials, &nbsp;<a href="introscatt.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 35:&nbsp;Green's Functions in Quantum Mechanics, &nbsp;<a href="greensfuns.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 36:&nbsp;The Lippmann-Schwinger Equation, &nbsp;<a href="lippschw.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 37:&nbsp;Adiabatic Invariance, the Geometric Phase, and the Born-Oppenheimer Approximation, &nbsp;<a href="adiab.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 38:&nbsp;The Classical Electromagnetic Field Hamiltonian, &nbsp;<a href="hamclassemf.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 39:&nbsp;Lagrangian and Hamiltonian Formulation of the Classical Electromagnetic Field, &nbsp;<a href="classemf.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 40:&nbsp;The Quantized Electromagnetic Field, &nbsp;<a href="quantemf.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 41:&nbsp;Interaction of Radiation with Matter, &nbsp;<a href="radnmatt.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 42:&nbsp;Scattering of Radiation, &nbsp;<a href="photscatt.pdf">pdf</a>&nbsp;format (incomplete).</li>
+<li>Notes 43:&nbsp;The Klein-Gordon Equation&nbsp;, &nbsp;<a href="kleing.pdf">pdf</a>&nbsp;format (complete).</li>
+<li>Notes 44:&nbsp;Introduction to the Dirac Equation, &nbsp;<a href="dirac.pdf">pdf</a>&nbsp;format (incomplete).</li>
+<li>Notes 45:&nbsp;Lorentz Transformations in Special Relativity, &nbsp;<a href="lorentz.pdf">pdf</a>&nbsp;format (incomplete).</li>
+<li>Notes 46:&nbsp;Covariance of the Dirac Equation, &nbsp;<a href="covariance.pdf">pdf</a>&nbsp;format (incomplete).</li>
+</ul>
+<ul>
+<li>Appendix A:&nbsp;Gaussian, SI and Other Systems of Units in Electromagnetic Theory, &nbsp;<a href="emunits.pdf">pdf</a>&nbsp;format.</li>
+<li>Appendix B:&nbsp;Classical Mechanics, &nbsp;<a href="classmech.pdf">pdf</a>&nbsp;format.</li>
+<li>Appendix C:&nbsp;Gaussian Integrals, &nbsp;<a href="gaussint.pdf">pdf</a>&nbsp;format.</li>
+<li>Appendix D:&nbsp;Vector Calculus&nbsp;, &nbsp;<a href="vecident.pdf">pdf</a>&nbsp;format.</li>
+<li>Appendix E:&nbsp;Tensor Analysis&nbsp;, &nbsp;<a href="tensor.pdf">pdf</a>&nbsp;format.</li>
+</ul>
