@@ -92,6 +92,7 @@ for AP Courses</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/stephen.pdf" style="text-decoration:none;">Dynamics and Relativity</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/newton.pdf" style="text-decoration:none;">What Would Newton Do? </a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/relativity.pdf" style="text-decoration:none;">Relativity: The Special and General Theory </a></li>
   
   
   
