@@ -767,3 +767,22 @@ for AP Courses</a></li>
 <li>Problem Sheet 3: &nbsp;<a href="B10c.pdf">PDF</a>&nbsp;&nbsp;&nbsp; Electromagnetic Waves and Relativity</li>
 </ul>
 </br>
+<p><strong>David Tong: Lectures on Topics in Quantum Mechanics</strong></p>
+<p>&nbsp;<a href="topicsinqm.pdf">PDF</a></p>
+<ul>
+<li>&nbsp;Discrete Symmetries: &nbsp;&nbsp;<a href="topics1.pdf">PDF</a></li>
+<li>&nbsp;Approximation Methods: &nbsp;&nbsp;<a href="topics2.pdf">PDF</a></li>
+<li>&nbsp;Atoms: &nbsp;&nbsp;<a href="topics3.pdf">PDF</a></li>
+<li>Atoms in Electromagnetic Fields: &nbsp;&nbsp;<a href="topics4.pdf">PDF</a></li>
+<li>Quantum Foundations: &nbsp;&nbsp;<a href="topics5.pdf">PDF</a></li>
+<li>Scattering Theory: &nbsp;&nbsp;<a href="topics6.pdf">PDF</a><br /><br /></li>
+</ul>
+<p><strong>&nbsp;Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: &nbsp;<a href="fbd1.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Scattering</li>
+<li><strong>Problem Sheet 2: &nbsp;<a href="fbd2.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Variational Method, 1d Band Structure</li>
+<li><strong>Problem Sheet 3: &nbsp;<a href="fbd3.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; 3d Band Structure; Fermi Surfaces &nbsp;&nbsp;</li>
+<li><strong>Problem Sheet 4: &nbsp;<a href="fbd4.pdf">PDF</a>&nbsp;</strong>&nbsp;&nbsp; Phonons; Particles in a Magnetic Field</li>
+<li><strong>Notes on Spherical Bessel Functions: <a href="bessel.pdf">PDF</a></strong></li>
+</ul>
+</br>
