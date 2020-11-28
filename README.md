@@ -953,7 +953,21 @@ for AP Courses</a></li>
 </ul>
 </br>
 
+<h5 class="heading">Exercises</h5>
+<ul>
+<li class="p"><a href="ex01_ex.pdf">Exercise 1</a></li>
+<li class="p"><a href="ex02_ex.pdf">Exercise 2</a></li>
+<li class="p"><a href="ex03_ex.pdf">Exercise 3</a></li>
+<li class="p"><a href="ex04_ex.pdf">Exercise 4</a></li>
+<li class="p"><a href="ex05_ex.pdf">Exercise 5</a></li>
+<li class="p"><a href="ex06_ex.pdf">Exercise 6</a></li>
+<li class="p"><a href="ex07_ex.pdf">Exercise 7</a></li>
+<li class="p"><a href="ex08_ex.pdf">Exercise 8</a></li>
+<li class="p"><a href="ex09_ex.pdf">Exercise 9</a></li>
+<li class="p"><a href="ex10_ex.pdf">Exercise 10</a></li>
+<li class="p"><a href="ex11_ex.pdf">Exercise 11</a></li>
+<li class="p"><a href="ex12_ex.pdf">Exercise 12</a></li>
+</ul>
 
-
-
+</br>
 
