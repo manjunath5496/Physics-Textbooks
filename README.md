@@ -114,7 +114,7 @@ Processes in science and engineering</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/notes0.91.pdf" style="text-decoration:none;">Dirty tricks for statistical mechanics</a></li> 
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/2016W-217-lectures.pdf" style="text-decoration:none;">Physics 217: The Renormalization Group Winter 2016</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/e/0909.0859.pdf" style="text-decoration:none;">6 Lectures on QFT, RG and SUSY</a></li>   
-   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/h/lectures12.pdf" style="text-decoration:none;">Quantum Condensed Matter Field Theory</a></li>      
    
  </ul>
  </br>
