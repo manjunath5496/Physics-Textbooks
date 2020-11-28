@@ -96,7 +96,7 @@ for AP Courses</a></li>
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/110A_ALL.pdf" style="text-decoration:none;">Lecture Notes for Physics 110A</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/110B_ALL.pdf" style="text-decoration:none;">Lecture Notes for Physics 110B </a></li>
-  
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/lec3.rar" style="text-decoration:none;">Kvantfysik Lecture Notes (Quantum Mechanics) </a></li>  
   
  </ul>
  </br>
