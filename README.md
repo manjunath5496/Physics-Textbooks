@@ -143,6 +143,11 @@ Fifteen Years Later</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/y/sigma.pdf" style="text-decoration:none;">Sigma Models and String Theory  </a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/y/9108028.pdf" style="text-decoration:none;">Applied Conformal Field Theory  </a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/y/9411028.pdf" style="text-decoration:none;">What is String Theory? </a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/z/Lect.pdf" style="text-decoration:none;">Introduction to String Theory </a></li>  
+ 
+ 
+ 
+ 
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
