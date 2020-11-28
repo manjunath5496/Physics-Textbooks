@@ -101,7 +101,7 @@ for AP Courses</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/dyson.pdf" style="text-decoration:none;">Why Maxwell's theory is so hard to understand.</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/macfarlane.pdf" style="text-decoration:none;">Electromagnetism</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/aqm_notes_180112.pdf" style="text-decoration:none;">Applications of Quantum Mechanics</a></li>
-   
+     <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/LectureNotes2012.pdf" style="text-decoration:none;">Lecture Notes for Solid State Physics</a></li>
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
