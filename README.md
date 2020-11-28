@@ -746,3 +746,22 @@ for AP Courses</a></li>
 <li><strong>Problem Sheet 4: &nbsp;<a href="mf4.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Hamiltonian Formulation</li>
 </ul>
 </br>
+<p><strong>David Tong: Lectures on Electromagnetism</strong></p>
+<p>&nbsp;<a href="electro.pdf">PDF</a></p>
+<p>&nbsp;</p>
+<ul>
+<li>Div, Grad and Curl: &nbsp;&nbsp;<a href="prelim.pdf">PDF</a></li>
+<li>Introduction and Electrostatics: &nbsp;&nbsp;<a href="el1.pdf">PDF</a></li>
+<li>Magnetostatics: &nbsp;&nbsp;<a href="el2.pdf">PDF</a></li>
+<li>Electrodynamics: &nbsp;&nbsp;<a href="el3.pdf">PDF</a></li>
+<li>Electromagnetism and Relativity: &nbsp;&nbsp;<a href="el4.pdf">PDF</a></li>
+<li>Electromagnetic Radiation: &nbsp;&nbsp;<a href="el5.pdf">PDF</a></li>
+<li>Electromagnetism in Matter: &nbsp;&nbsp;<a href="el6.pdf">PDF</a></li>
+</ul>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li>Problem Sheet 1: &nbsp;<a href="B10a.pdf">PDF</a>&nbsp;&nbsp;&nbsp; Electric Fields</li>
+<li>Problem Sheet 2:&nbsp;&nbsp;<a href="B10b.pdf">PDF</a>&nbsp;&nbsp;&nbsp; Magnetic Fields</li>
+<li>Problem Sheet 3: &nbsp;<a href="B10c.pdf">PDF</a>&nbsp;&nbsp;&nbsp; Electromagnetic Waves and Relativity</li>
+</ul>
+</br>
