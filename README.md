@@ -88,6 +88,7 @@ for AP Courses</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(51).pdf" style="text-decoration:none;">Lab Manual for Physics 223</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(52).pdf" style="text-decoration:none;">Discover Physics </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(53).pdf" style="text-decoration:none;">Astronomy </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(54).pdf" style="text-decoration:none;">Nuclear Physics For Cultural Heritage</a></li>
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
