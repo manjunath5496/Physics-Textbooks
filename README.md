@@ -686,5 +686,32 @@ for AP Courses</a></li>
 <li><a href="Lecture21-Doppler.pdf" data-smd-id="s47">Lecture 21: The Doppler effect</a></li>
 </ul>
 
+</br>
+
+
+<p><strong>David Tong: Lectures on Dynamics and Relativity</strong></p>
+<p><a href="dynrel.pdf" data-smd-id="s32">PDF</a></p>
+<p>&nbsp;</p>
+<ul>
+<li><strong>Content</strong></li>
+<li><strong>Newtonian Mechanics: &nbsp;&nbsp;<a href="one.pdf" data-smd-id="s34">PDF</a></strong></li>
+<li><strong>Forces: &nbsp;&nbsp;<a href="two.pdf" data-smd-id="s35">PDF</a></strong></li>
+<li><strong>Interlude: Dimensional Analysis: &nbsp;&nbsp;<a href="three.pdf" data-smd-id="s36">PDF</a></strong></li>
+<li><strong>Central Forces: &nbsp;&nbsp;<a href="four.pdf" data-smd-id="s37">PDF</a></strong></li>
+<li><strong>Systems of Particles: &nbsp;&nbsp;<a href="five.pdf" data-smd-id="s38">PDF</a></strong></li>
+<li><strong>Non-Inertial Frames: &nbsp;&nbsp;<a href="six.pdf" data-smd-id="s39">PDF</a></strong></li>
+<li><strong>Special Relativity: &nbsp;&nbsp;<a href="seven.pdf" data-smd-id="s40">PDF</a></strong></li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: &nbsp;<a href="htl1.pdf" data-smd-id="s42">PDF</a></strong>&nbsp;&nbsp;&nbsp; Single Particle Mechanics</li>
+<li><strong>Problem Sheet 2: &nbsp;<a href="htl2.pdf" data-smd-id="s44">PDF</a></strong>&nbsp;&nbsp;&nbsp; Central Forces and Orbits</li>
+<li><strong>Problem Sheet 3: &nbsp;<a href="htl3.pdf" data-smd-id="s46">PDF</a></strong>&nbsp;&nbsp;&nbsp; Systems of Particles and Spinning Things</li>
+<li><strong>Problem Sheet 4: &nbsp;<a href="htl4.pdf" data-smd-id="s48">PDF</a></strong>&nbsp;&nbsp;&nbsp; Special Relativity</li>
+</ul>
+
+</br>
+
 
 
