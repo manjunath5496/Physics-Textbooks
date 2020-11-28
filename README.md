@@ -1261,3 +1261,23 @@ Fifteen Years Later</a></li>
 <li>Cosmology:<a href="z/cosmology.pdf">&nbsp;PDF File</a></li>
 </ul>
 </br>
+<p><strong>David Tong: Lectures on String Theory</strong></p>
+<p>&nbsp;<a href="y/string.pdf">PDF</a></p>
+<ul>
+<li>Introduction: &nbsp;<a href="y/intro.pdf">PDF</a></li>
+<li>The Classical String:&nbsp;<a href="y/one.pdf">PDF</a></li>
+<li>The Quantum String: &nbsp;<a href="y/two.pdf">PDF</a></li>
+<li>Open Strings and D-Branes: &nbsp;<a href="y/three.pdf">PDF</a></li>
+<li>Introducing Conformal Field Theory: &nbsp;<a href="y/four.pdf">PDF</a></li>
+<li>Path Integrals and Ghosts: &nbsp;<a href="y/five.pdf">PDF</a></li>
+<li>Scattering Amplitudes: &nbsp;<a href="y/six.pdf">PDF</a></li>
+<li>Low Energy Effective Actions: <a href="y/seven.pdf">PDF</a></li>
+<li>Compactification and T-Duality: &nbsp;<a href="y/eight.pdf">PDF</a><br /><br /></li>
+</ul>
+<p><strong>&nbsp;Problem Sheets</strong></p>
+<ul>
+<li><strong>Problem Sheet 1: &nbsp;<a href="y/bq1.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Classical and Quantum Strings</li>
+<li><strong>Problem Sheet 2: &nbsp;<a href="y/bq2.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Conformal Field Theory</li>
+<li><strong>Problem Sheet 3: &nbsp;<a href="y/bq3.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Mostly Scattering Amplitudes</li>
+<li><strong>Problem Sheet 4: &nbsp;&nbsp;<a href="y/bq4.pdf">PDF</a></strong>&nbsp;&nbsp;&nbsp; Background Fields</li>
+</ul>
