@@ -137,6 +137,9 @@ Fifteen Years Later</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/m/black_holes_lectures_2020.pdf" style="text-decoration:none;">Part 3 Black Holes</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/m/9707012.pdf" style="text-decoration:none;">Black Holes</a></li>
  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/n/Jaffe_cosmology.pdf" style="text-decoration:none;">Cosmology </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/n/peacock_cosmology_notes.pdf" style="text-decoration:none;">Astrophysical Cosmology</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/n/A275.pdf" style="text-decoration:none;">Astronomy 275 Lecture Notes</a></li>
  
  </ul>
  </br>
