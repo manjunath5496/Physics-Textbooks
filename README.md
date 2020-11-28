@@ -123,7 +123,18 @@ Processes in science and engineering</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(68).pdf" style="text-decoration:none;">Lectures on Anomalies </a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(69).pdf" style="text-decoration:none;">LARGE N QCD</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(70).pdf" style="text-decoration:none;">Aspects of Chern-Simons Theory</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(71).pdf" style="text-decoration:none;">Bosonization: How to make it work for you in condensed matter</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(711).pdf" style="text-decoration:none;">Bosonization: How to make it work for you in condensed matter</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(71).pdf" style="text-decoration:none;">Calculus of Many Instantons </a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(72).pdf" style="text-decoration:none;">Introduction to Cosmic F- and D-Strings</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(73).pdf" style="text-decoration:none;">Vortices and Monopoles</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(74).pdf" style="text-decoration:none;">Magnetic Monopoles, Duality, and Supersymmetry</a></li>
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(75).pdf" style="text-decoration:none;">Instantons Versus Supersymmetry:
+Fifteen Years Later</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Physics-Textbooks/blob/master/phy(76).pdf" style="text-decoration:none;">Electromagnetic Duality for Children</a></li>
+
+
  </ul>
  </br>
  <h2>Stanford University Lecture Notes</h2>
